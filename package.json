@@ -1,29 +1,45 @@
 {
-  "name": "hakot",
-  "version": "1.0.0",
-  "description": "umak infotech olympics",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/santi088/hakot.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/santi088/hakot/issues"
-  },
-  "homepage": "https://github.com/santi088/hakot#readme",
-  "dependencies": {
-    "@types/express": "^5.0.6",
-    "@types/node": "^26.6.5",
-    "axios": "^1.20.0",
-    "cors": "^2.8.6",
-    "express": "^5.3.0",
-    "react": "^19.3.0"
-  }
+    "name":  "maki",
+    "version":  "1.0.0",
+    "description":  "umak infotech olympics",
+    "main":  "dist/server.js",
+    "scripts":  {
+                    "build":  "npm run build:server \u0026\u0026 npm run build:client",
+                    "start":  "node dist/server.js",
+                    "dev":  "npm start",
+                    "ingest":  "npm run build \u0026\u0026 node dist/ingest.js",
+                    "test":  "npm run build \u0026\u0026 node --test tests/backend.test.cjs tests/answer.test.cjs tests/cache.test.cjs tests/location.test.cjs tests/normalize.test.cjs",
+                    "build:server":  "tsc",
+                    "build:client":  "node scripts/build-frontend.cjs",
+                    "prestart":  "npm run build"
+                },
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/santi088/hakot.git"
+                   },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "type":  "commonjs",
+    "bugs":  {
+                 "url":  "https://github.com/santi088/hakot/issues"
+             },
+    "homepage":  "https://github.com/santi088/hakot#readme",
+    "dependencies":  {
+                         "@types/express":  "^5.0.6",
+                         "@types/node":  "^26.6.5",
+                         "axios":  "^1.20.0",
+                         "cors":  "^2.8.6",
+                         "express":  "^5.3.0",
+                         "react":  "^19.3.0",
+                         "react-dom":  "^19.3.0",
+                         "react-markdown":  "^10.1.0",
+                         "remark-gfm":  "^4.0.1"
+                     },
+    "devDependencies":  {
+                            "esbuild":  "^0.28.2",
+                            "typescript":  "^7.0.2"
+                        }
 }

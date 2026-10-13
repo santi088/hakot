@@ -1,0 +1,327 @@
+University Chaplain is located in ADMIN BUILDING, Basement, A. North Wing.
+
+Center for Institutional Mission and Identity (CIMI) is located in ADMIN BUILDING, Basement, A. North Wing.
+
+University Facilities Management Office (UFMO) is located in ADMIN BUILDING, Basement, A. North Wing.
+
+Supply and Property Management Office (SPMO) is located in ADMIN BUILDING, Basement, A. North Wing.
+
+Occupational Health and Safety Office (OHSO) is located in ADMIN BUILDING, Basement, A. North Wing.
+
+Cafeteria (UMak Food Hub) is located in ADMIN BUILDING, Basement, B. South Wing.
+
+General Service Office (GSO) is located in ADMIN BUILDING, Basement, B. South Wing.
+
+Housekeeping is located in ADMIN BUILDING, Basement, B. South Wing.
+
+Elevator Operations is located in ADMIN BUILDING, Basement, B. South Wing.
+
+Engineering is located in ADMIN BUILDING, Basement, B. South Wing.
+
+Transportation Management is located in ADMIN BUILDING, Basement, B. South Wing.
+
+Common Conference is located in ADMIN BUILDING, Basement, B. South Wing.
+
+Center for Quality and Management Development (CQMD) is located in ADMIN BUILDING, Ground Floor, A. North Wing.
+
+Center for Institutional and Global Affairs (CIGA) is located in ADMIN BUILDING, Ground Floor, A. North Wing.
+
+Universities Facilities Management Office (UFMO) is located in ADMIN BUILDING, Ground Floor, A. North Wing.
+
+Medical and Dental Clinic (MDC) is located in ADMIN BUILDING, Ground Floor, A. North Wing.
+
+UMak Auditorium (formerly Mini Theater) is located in ADMIN BUILDING, Ground Floor, B. South Wing.
+
+OCH Function Rooms A-C is located in ADMIN BUILDING, Ground Floor, B. South Wing.
+
+Accounting Office is located in ADMIN BUILDING, Ground Floor, B. South Wing.
+
+Cash Office is located in ADMIN BUILDING, Ground Floor, B. South Wing.
+
+Center for Archives and Information Governance (CAIG) (Formerly CDPRM) is located in ADMIN BUILDING, Mezannine, A. North Wing.
+
+Innovation and Technology Support Office (ITSO) is located in ADMIN BUILDING, Mezannine, A. North Wing.
+
+Office of the University Registrar (OUR) is located in ADMIN BUILDING, Mezannine, B. South Wing.
+
+Budget Management Office (BMO) is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Office of the Vice President for Finance (OVPF) is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Center for Planning and Development (CPD) is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Human Resources Management Office (HRMO) is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Recruitment and Placement is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Records and Monitoring is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Compensation and Benefits is located in ADMIN BUILDING, Second Floor, A. North Wing.
+
+Library Learning Commons (LLC) is located in ADMIN BUILDING, Second Floor, B. South Wing.
+
+Center for Information Technology (CIT) is located in ADMIN BUILDING, Second Floor, B. South Wing.
+
+Center for Technology-based Learning Hub (CTBL) is located in ADMIN BUILDING, Second Floor, B. South Wing.
+
+Office of the President is located in ADMIN BUILDING, Third Floor, A. North Wing.
+
+Office of the Vice President for Academic Affairs is located in ADMIN BUILDING, Third Floor, A. North Wing.
+
+College of Governance and Public Policy (CGPP) is located in ADMIN BUILDING, Third Floor, B. South Wing.
+
+College of Computing and Information Sciences (CCIS) is located in ADMIN BUILDING, Third Floor, B. South Wing.
+
+Institute of Accountancy and Finance (IAF) (Formerly IOA) is located in ADMIN BUILDING, Third Floor, B. South Wing.
+
+College of Business Administration (CBA) (Formerly CBFS) is located in ADMIN BUILDING, Third Floor, B. South Wing.
+
+Institute of Disaster and Emergency Management (IDEM) is located in ADMIN BUILDING, Third Floor, B. South Wing.
+
+College of Human Kinetics (CHK) is located in ADMIN BUILDING, Third Floor, B. South Wing.
+
+Center for Linkages and Placement (CLP) is located in ADMIN BUILDING, Fourth Floor, A. North Wing.
+
+Office of the University Secretary (OUSEC) is located in ADMIN BUILDING, Fourth Floor, A. North Wing.
+
+Center for Alumni Affairs (CAA) is located in ADMIN BUILDING, Fourth Floor, A. North Wing.
+
+Vice President for Administration (OVPA) is located in ADMIN BUILDING, Fourth Floor, A. North Wing.
+
+Institute of Imaging and Health Sciences (IIHS) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+Institute of Nursing (ION) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+Institute of Pharmacy (IOP) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+Institute of Arts and Design (IAD) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+College of Engineering and Technology (CET) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+College of Liberal Arts and Social Sciences (CLASS) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+College of Science (COS) (Formerly IOPsy) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+Vice President for Planning and Research (OVPPR) is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+4/F Faculty Area is located in ADMIN BUILDING, Fourth Floor, B. South Wing.
+
+University Student Multimedia Organization (USMO) is located in ADMIN BUILDING, Fifth Floor, A. North Wing.
+
+Grand Alumni Association of Makati Herons, Inc (GAA) is located in ADMIN BUILDING, Fifth Floor, A. North Wing.
+
+University Student Council (USC) is located in ADMIN BUILDING, Fifth Floor, A. North Wing.
+
+Center for Student Formation and Discipline (CSFD) is located in ADMIN BUILDING, Fifth Floor, A. North Wing.
+
+Center for Student Organization and Activities (CSOA) is located in ADMIN BUILDING, Fifth Floor, A. North Wing.
+
+Vice President for Student Services and Community Development (OVPSSCD) is located in ADMIN BUILDING, Fifth Floor, A. North Wing.
+
+Center for Technology Incubation and Enterprise Development (CTIED) is located in ADMIN BUILDING, Fifth Floor, B. South Wing.
+
+Center for Integrated Communications (CIC) is located in ADMIN BUILDING, Fifth Floor, B. South Wing.
+
+Common Conference is located in ADMIN BUILDING, Fifth Floor, B. South Wing.
+
+The Board Room is located in ADMIN BUILDING, Fifth Floor, B. South Wing.
+
+Lecture Rooms (A1 to A12) (A to D) is located in ADMIN BUILDING, Fifth Floor, B. South Wing.
+
+Media Center (RIMPORT Office) is located in ADMIN BUILDING, Sixth Floor, A. North Wing.
+
+IAD Creatives and Communications Internship Office is located in ADMIN BUILDING, Sixth Floor, A. North Wing.
+
+Animation Lab 1 and 2 is located in ADMIN BUILDING, Sixth Floor, A. North Wing.
+
+Editing Bay is located in ADMIN BUILDING, Sixth Floor, A. North Wing.
+
+Audio Recording Studio is located in ADMIN BUILDING, Sixth Floor, A. North Wing.
+
+UMak Performing Arts Theater (UPAT) (Formerly Grand Theater) is located in ADMIN BUILDING, Sixth Floor, B. South Wing.
+
+Dressing Rooms A and B is located in ADMIN BUILDING, Sixth Floor, B. South Wing.
+
+Center for Culture and Arts (CCA) is located in ADMIN BUILDING, Sixth Floor Mezzanine Level, A. North Wing.
+
+Performing Arts Theater Balcony is located in ADMIN BUILDING, Sixth Floor Mezzanine Level, B. South Wing.
+
+University Facilities Management Office (UFMO) is located in ACADEMIC BUILDING 1, First Floor.
+
+240th NROTC Unit is located in ACADEMIC BUILDING 1, Second Floor.
+
+Institute for Technical Education and Skills Training is located in ACADEMIC BUILDING 1, Third Floor.
+
+Skills Laboratories is located in ACADEMIC BUILDING 1, Third Floor.
+
+Heron’s Hostel is located in ACADEMIC BUILDING 1, Fourth Floor.
+
+Suite Rooms is located in ACADEMIC BUILDING 1, Fourth Floor.
+
+Dormitories is located in ACADEMIC BUILDING 1, Fourth Floor.
+
+Laundry Area is located in ACADEMIC BUILDING 1, Fourth Floor.
+
+Cafe is located in ACADEMIC BUILDING 1, Fourth Floor.
+
+Computer Laboratory (101-103) (105) (109-110) (112) is located in ACADEMIC BUILDING 2, First Floor.
+
+Psychology Laboratory (104) is located in ACADEMIC BUILDING 2, First Floor.
+
+Center for Admissions and Scholarships (CAS) and UMak Scholars Society (106-108) is located in ACADEMIC BUILDING 2, First Floor.
+
+Instructional Media Room (IMR) (111) is located in ACADEMIC BUILDING 2, First Floor.
+
+Lecture Room (201-206) is located in ACADEMIC BUILDING 2, Second Floor.
+
+Guidance Office (205-207) (209) (211) is located in ACADEMIC BUILDING 2, Second Floor.
+
+Accounting Laboratory (208) is located in ACADEMIC BUILDING 2, Second Floor.
+
+Steno Laboratory (210) is located in ACADEMIC BUILDING 2, Second Floor.
+
+Business Simulation Laboratory (212) is located in ACADEMIC BUILDING 2, Second Floor.
+
+Lecture Room (301-302) (304) (306) (308-312) is located in ACADEMIC BUILDING 2, Third Floor.
+
+College of Innovative Teachers Education Office (CITE) (303) (305) is located in ACADEMIC BUILDING 2, Third Floor.
+
+Higher School ng UMak Registrar (307) is located in ACADEMIC BUILDING 2, Third Floor.
+
+Higher School ng UMak Laboratory (401) (403) (405) is located in ACADEMIC BUILDING 2, Fourth Floor.
+
+NROTC Office (402) is located in ACADEMIC BUILDING 2, Fourth Floor.
+
+Lecture Room (404) (406) (408) (409) is located in ACADEMIC BUILDING 2, Fourth Floor.
+
+Audio Visual Room (AVR) is located in ACADEMIC BUILDING 2, Fourth Floor.
+
+Institute for Social Development and Nation Building (ISDNB) (411) is located in ACADEMIC BUILDING 2, Fourth Floor.
+
+Computer Laboratory (101-104) is located in ACADEMIC BUILDING 3, First Floor.
+
+UMak Coop Office (108) is located in ACADEMIC BUILDING 3, First Floor.
+
+Tagak Cafe (111) is located in ACADEMIC BUILDING 3, First Floor.
+
+Kitchen Laboratories (109-112) is located in ACADEMIC BUILDING 3, First Floor.
+
+Multi-Purpose Room (105-107) is located in ACADEMIC BUILDING 3, First Floor.
+
+Lecture Room (201-206) (208) (210) (212) is located in ACADEMIC BUILDING 3, Second Floor.
+
+College of Business and Financial Sciences (CBFS) Simulation Room (207) is located in ACADEMIC BUILDING 3, Second Floor.
+
+College of Tourism and Hospitality Management (CTHM) Faculty Office (209) is located in ACADEMIC BUILDING 3, Second Floor.
+
+College of Tourism and Hospitality Management Dean’s Office (211) is located in ACADEMIC BUILDING 3, Second Floor.
+
+Lecture Room (301-312) is located in ACADEMIC BUILDING 3, Third Floor.
+
+Lecture Room (401-416) is located in ACADEMIC BUILDING 3, Fourth Floor.
+
+Open Area is located in ACADEMIC BRIDGEWAY, First Floor.
+
+Lecture room (201-202) is located in ACADEMIC BRIDGEWAY, Second Floor.
+
+Lecture Room (301-302) is located in ACADEMIC BRIDGEWAY, Third Floor.
+
+Lecture Room (401-402) is located in ACADEMIC BRIDGEWAY, Fourth Floor.
+
+Guard House and Housekeeping is located in UNIVERSITY OF MAKATI STADIUM, Oval.
+
+Main Lobby is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ground Floor.
+
+Parking Area is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ground Floor.
+
+Parking Area is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), First level to Third level Parking.
+
+Building Management System Office (401-402) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fourth Floor.
+
+Parking Area is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fourth Floor.
+
+School of Law Dean’s Office is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fifth Floor.
+
+School of Law Library Learning Commons is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fifth Floor.
+
+Moot Court (504-505) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fifth Floor.
+
+Lecture Rooms (506) (508-512) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fifth Floor.
+
+Multimedia Room (507) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Fifth Floor.
+
+Lecture Rooms (601-605) (607-614) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Sixth Floor.
+
+Computer Laboratory (606) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Sixth Floor.
+
+Skills Laboratory (615) (617) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Sixth Floor.
+
+Student Center is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Sixth Floor.
+
+Multimedia Room (701) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Seventh Floor.
+
+Lecture Room (702-707) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Seventh Floor.
+
+Simulated Hospital is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Seventh Floor.
+
+Laboratories (708-709) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Seventh Floor.
+
+Skills Laboratories (710) (712) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Seventh Floor.
+
+Lecture Rooms (801-805) (807-814) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eighth Floor.
+
+Computer Laboratory (806) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eighth Floor.
+
+Student Center is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eighth Floor.
+
+Skills Laboratory (815) (817) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eighth Floor.
+
+Central Laboratory is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Pharmacy Laboratory is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Science Research Laboratory is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Multimedia Room (901) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Laboratories (902) (906-909) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Simulated Hospital / Health Institutes Office is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Center for Research Ethics (CRE) (formerly UMREC) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Center for Research Management (formerly CUR) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Center for Extension and Development (CED) (formerly CCED) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Ninth Floor.
+
+Lecture Room (1001-1005) (1007-1011) (103-1017) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Tenth Floor.
+
+Computer Laboratory (1006) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Tenth Floor.
+
+Student Center is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Tenth Floor.
+
+Multimedia Room (1012) is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Tenth Floor.
+
+Fitness Gym is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+Aero Dance Studio is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+Dance Studio is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+Cafeteria is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+Clinic is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+Sauna is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+1101 Multimedia Room is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Eleventh Floor.
+
+Basketball Court is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Twelfth Floor.
+
+Volleyball Court is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Twelfth Floor.
+
+PE Department is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Twelfth Floor.
+
+Shower Room is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Twelfth Floor.
+
+Locker Room is located in HEALTH AND PHYSICAL SCIENCE BUILDING (HPSB), Twelfth Floor.
